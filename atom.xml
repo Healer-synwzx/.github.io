@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Healer-synwzx.github.io</id>
+    <title>Healer</title>
+    <updated>2021-09-14T04:33:55.070Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Healer-synwzx.github.io"/>
+    <link rel="self" href="https://Healer-synwzx.github.io/atom.xml"/>
+    <subtitle>Healer个人导航页</subtitle>
+    <logo>https://Healer-synwzx.github.io/images/avatar.png</logo>
+    <icon>https://Healer-synwzx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Healer</rights>
+</feed>
